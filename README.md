@@ -2,7 +2,7 @@
 This project consists of various SQL scripts for Data exploration, analytics and reporting, which covers various analysis like Database Exploration, measures &amp; metrics, cumulative analysis, time based trends etc. This will help Data and Business Analyst  to quickly explore, segment and analyze data within a relational database.
 
 
-DATA-ANALYTICS-USING-SQL-project/
+## Repository Structure/
 │
 ├── Data_Sets/                           # Contains bronze,silver,gold data sets
 │
@@ -24,6 +24,14 @@ DATA-ANALYTICS-USING-SQL-project/
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+## 🌟 About Me
+
+Hi there! I'm **Aniket Tripathi**. I'm an aspiring Data Engineer with hands-on experience in building scalable data pipelines, automating workflows, and driving insights using big data technologies and BI tools. Strong analytical skills and a passion for optimizing data-driven decision-making.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+www.linkedin.com/in/aniket-tripathi-867638136
 
 
 
