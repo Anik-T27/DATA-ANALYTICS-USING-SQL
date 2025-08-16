@@ -17,9 +17,9 @@ Data Analytics Project/
 │   ├── Exploratory_Data_Analysis/      # Scripts for doing Exploratory Data Analysis like Database, Dimension,Date                                                     exploration etc
 │   ├── Reports/                        # Scripts for creating customers and products reports
 │
-│
-├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
+├── README.md                           # Project overview and instructions
+
 ```
 
 
