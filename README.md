@@ -20,7 +20,7 @@ Data Analytics Project/
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-
+```
 
 
 ## 🛡️ License
