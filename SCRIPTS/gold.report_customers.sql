@@ -31,8 +31,11 @@ IF OBJECT_ID('gold.report_customers', 'V') IS NOT NULL
 GO
 
 CREATE VIEW gold.report_customers AS
-
+	
+  -- ================================================
   -- CTE-1 ---> Retrieves core columns from the table
+  -- ================================================
+	
     WITH base_query AS (
         SELECT 
             f.order_number,
@@ -48,8 +51,11 @@ CREATE VIEW gold.report_customers AS
             LEFT JOIN gold.dim_customers AS c
             ON f.customer_key = c.customer_key
             WHERE (f.order_date IS NOT NULL)),
-
+	
+  -- ==================================================
   -- CTE 2---> Summarizes key metrics at customer level
+  -- ==================================================
+	
     customer_aggregation AS(
 
         SELECT 
